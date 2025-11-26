@@ -1,4 +1,4 @@
-# EQUIPO 6
+# Equipo 6
 # Documentación y comandos - Markdown 
 
 
