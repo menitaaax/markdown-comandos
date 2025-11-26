@@ -1,4 +1,6 @@
+# EQUIPO 6
 # Documentación y comandos - Markdown 
+
 
 ## 1-Encabezados
 Los encabezados se hacen usando el símbolo # al inicio de la línea.
