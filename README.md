@@ -52,7 +52,7 @@ Por ejemplo: [Visitar GitHub](https://github.com/)
 ## 5-Imágenes
 Es igual que un enlace, pero con un signo de exclamación (!) al inicio.
 
-Por ejemplo: ![Atardecer en la playa](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=40)
+Por ejemplo:  ![Atardecer en la playa](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=200&q=40)
 
 ## 6-Citas
 Para hacer una cita se pone > al inicio de la línea:
